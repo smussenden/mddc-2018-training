@@ -21,6 +21,8 @@ Here are some great examples of how news organizations have used the tools. As y
 
 For today's lesson, we're going to build a simpler version of a graphic that accompanied this story, about the [reconstruction of an island in the Chesapeake Bay over a period of 15 years](http://cnsmaryland.org/2015/02/12/maryland-island-once-diminished-reconstructed-with-dredged-material/), Poplar Island.
 
+When you're finished, it should [look like this](http://cnsmaryland.org/interactives/spring-2018/mddc/juxtapose/index.html).
+
 #### What you'll need
 
 You'll need the links to the before and after photographs, which I've hosted at the following URLs:
