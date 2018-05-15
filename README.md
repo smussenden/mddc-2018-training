@@ -11,8 +11,7 @@ Juxtapose uses a slider to compare two photographs (or animated GIFs), typically
 Here are some great examples of how news organizations have used the tools. As you review them, consider why these are examples of effective storytelling?
 
 
-* ESPN: [Comparing young and old Floyd Mayweather]
-(http://www.espn.com/espn/feature/story/_/id/12748163/floyd-mayweather-prepares-2-fight-seal-legacy)
+* ESPN: [Comparing young and old Floyd Mayweather](http://www.espn.com/espn/feature/story/_/id/12748163/floyd-mayweather-prepares-2-fight-seal-legacy)
 * Chicago Tribune: [Tornado damage](http://www.chicagotribune.com/chi-tornado-damage-washington-illinois-infographic-20141112-htmlstory.html)    
 * Boston Globe: [New Half Dollar](http://www.bostonglobe.com/metro/2014/10/23/returning-jackie-kennedy-vision/t7TCSfcdkjcQNBBkdbuvEO/story.html)
 
