@@ -47,9 +47,9 @@ Subhead for embedding: `<h4>By 1998, the Chesapeake Bay's Poplar Island had dwin
 
 #### Let's make a Juxtapose
 
-**Step 1:** Visit [https://juxtapose.knightlab.com](https://juxtapose.knightlab.com)
+**Step 1:** Visit [juxtapose.knightlab.com](https://juxtapose.knightlab.com)
 
-**Step 2:** Click the green "Make a Juxtapose" button
+**Step 2:** Click the green "Make a Juxtapose" button.
 
 **Step 3:** Fill out the form with the image URLs, text and credit information. Hit the preview button.
 
@@ -63,7 +63,6 @@ Subhead for embedding: `<h4>By 1998, the Chesapeake Bay's Poplar Island had dwin
 
 * What else could you imagine using this tool for?
 * What would you need to do to gather material?   
-
 
 ## Soundcite.js
 
@@ -98,7 +97,7 @@ The text of the clip:
 
 #### Let's make a Soundcite
 
-**Step 1:** Visit [https://Soundcite.knightlab.com](https://Soundcite.knightlab.com)
+**Step 1:** Visit [Soundcite.knightlab.com](https://Soundcite.knightlab.com)
 
 **Step 2:** Click the green "Make a clip" button.
 
